@@ -1,4 +1,4 @@
-# Traffic_light_controller_Synthesis
+#EXPT_6: Traffic_light_controller_Synthesis
 
 ## Aim:
 
@@ -39,10 +39,13 @@ The Liberty files are present in the library path,
 • Genus Script file with .tcl file Extension commands are executed one by one to synthesize the netlist.
 
 Synthesis RTL Schematic :
+![WhatsApp Image 2024-11-21 at 18 41 22_cc8b64c1](https://github.com/user-attachments/assets/138e2ccf-929d-4aab-b8d2-42c16409a166)
 
 Area report:
+![WhatsApp Image 2024-11-21 at 18 41 23_69a79585](https://github.com/user-attachments/assets/1745cb48-e124-4b3f-aca3-d334aaedd0b6)
 
 Power Report:
+![WhatsApp Image 2024-11-21 at 18 41 25_e87704fd](https://github.com/user-attachments/assets/9e7a0394-24e6-4a9a-bb72-2c56a0e9b4ee)
 
 Result:
 
