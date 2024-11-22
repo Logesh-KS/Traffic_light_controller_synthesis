@@ -1,4 +1,4 @@
-#EXPT_6: Traffic_light_controller_Synthesis
+##EXPT_6: Traffic_light_controller_Synthesis
 
 ## Aim:
 
